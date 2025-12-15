@@ -1,0 +1,5 @@
+{
+  "name": "HostelGuard",
+  "description": "A comprehensive Hostel Entrance & Exit Monitoring System featuring real-time tracking, RFID simulation, late entry monitoring, and AI-powered analytics.",
+  "requestFramePermissions": []
+}
